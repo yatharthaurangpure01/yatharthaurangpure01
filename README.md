@@ -1,16 +1,150 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yatharth Aurangpure</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | AI Enthusiast</h3>
 
-<!--
-**yatharthaurangpure01/yatharthaurangpure01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Open+Source+Contributor" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at Government College of Engineering, Amravati
+- 💻 Passionate about Full Stack Development & AI
+- 🌱 Currently learning AI/ML, DevOps & System Design
+- 🚀 Building scalable real-world applications
+- 🎯 Goal: Become a top software engineer & AI developer
+- ⚡ Love solving DSA problems and building products
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/codingWorld01" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/yatharth-aurangpure-9a479231a/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:yatharthaurangpure2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,java,cpp,python,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚚 Drovo - Food Delivery Platform
+
+🔹 Multi-vendor food delivery platform  
+🔹 Google Maps distance-based pricing  
+🔹 JWT & Google OAuth Authentication  
+🔹 Razorpay Payment Integration  
+🔹 WhatsApp & Email Notifications  
+
+### 🛠 Tech Stack
+React.js • Node.js • Express.js • MongoDB • Razorpay • Google Maps API
+
+🔗 GitHub Repo: https://github.com/codingWorld01  
+🔗 Live Demo: https://drovo.vercel.app/
+
+---
+
+## 🎥 Video Messaging Platform
+
+🔹 Loom-like screen & webcam recorder  
+🔹 AI-based transcription & summaries  
+🔹 Stripe subscription integration  
+🔹 GCP cloud storage integration  
+🔹 Real-time streaming support  
+
+### 🛠 Tech Stack
+Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
+
+🔗 GitHub Repo: https://github.com/codingWorld01  
+🔗 Live Demo: https://video-messaging-app.vercel.app/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingWorld01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingWorld01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingWorld01&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codingWorld01&theme=onedark&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codingWorld01&theme=react-dark"/>
+</p>
+
+---
+
+# 💡 Achievements
+
+🏅 2nd Rank in Information Technology (94.05%)  
+🏅 Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate  
+🏅 Second Place – Ideathon organized by Savishkar India  
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- DevOps
+- System Design
+- Blockchain
+- Advanced Backend Architecture
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(!success){
+   keepLearning();
+   keepBuilding();
+   stayConsistent();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codingWorld01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<h3 align="center">⭐ From <a href="https://github.com/codingWorld01">Yatharth Aurangpure</a></h3>
