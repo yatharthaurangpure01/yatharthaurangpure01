@@ -119,15 +119,7 @@
 🏅 Second Place – Ideathon organized by Savishkar India  
 
 ---
-````markdown id="7f5vho"
-## ⚡ Fun Fact
-
-```javascript
-while(!success){
-   keepLearning();
-   keepBuilding();
-   stayConsistent();
-}
+## ⚡ Fun Fact ```javascript while(!success){ keepLearning(); keepBuilding(); stayConsistent(); }
 ```
 
 ---
