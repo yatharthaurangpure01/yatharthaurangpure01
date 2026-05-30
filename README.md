@@ -1,3 +1,4 @@
+````md
 <h1 align="center">Hi 👋, I'm Yatharth Aurangpure</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | AI Enthusiast</h3>
@@ -27,11 +28,11 @@
 <a href="https://github.com/yatharthaurangpure01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/yatharth-aurangpure-9a479231a/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-&nbsp;
+
 <a href="mailto:yatharthaurangpure2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -77,31 +78,61 @@
 
 ---
 
-###
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yatharth-aurangpure/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="yatharthaurangpure27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthaurangpure01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthaurangpure01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/pacman-output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yatharthaurangpure01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yatharthaurangpure01&theme=tokyonight&hide_border=true"/>
+</p>
 
-###
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yatharthaurangpure01&theme=onedark&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthaurangpure01&theme=react-dark"/>
+</p>
+
+---
+
+## 💡 Achievements
+
+🏅 2nd Rank in Information Technology (94.05%)  
+🏅 Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate  
+🏅 Second Place – Ideathon organized by Savishkar India  
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+while(!success){
+   keepLearning();
+   keepBuilding();
+   stayConsistent();
+}
+````
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yatharthaurangpure01&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+```
