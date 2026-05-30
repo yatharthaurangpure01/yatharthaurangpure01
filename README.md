@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Yatharth Aurangpure</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | AI Enthusiast</h3>
@@ -28,11 +27,11 @@
 <a href="https://github.com/yatharthaurangpure01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/yatharth-aurangpure-9a479231a/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-
+&nbsp;
 <a href="mailto:yatharthaurangpure2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -40,17 +39,17 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,java,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,java,cpp,python,git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚚 Drovo - Food Delivery Platform
+### 🚚 Drovo - Food Delivery Platform
 
 - Multi-vendor food delivery platform
 - Google Maps distance-based pricing
@@ -58,14 +57,13 @@
 - Razorpay Payment Integration
 - WhatsApp & Email Notifications
 
-### 🛠 Tech Stack
-React.js • Node.js • Express.js • MongoDB • Razorpay • Google Maps API
+**🛠 Tech Stack:** React.js • Node.js • Express.js • MongoDB • Razorpay • Google Maps API
 
-🔗 Live Demo: https://drovo.vercel.app/
+🔗 [Live Demo](https://drovo.vercel.app/)
 
 ---
 
-## 🎥 Video Messaging Platform
+### 🎥 Video Messaging Platform
 
 - Loom-like screen & webcam recorder
 - AI-based transcription & summaries
@@ -73,24 +71,23 @@ React.js • Node.js • Express.js • MongoDB • Razorpay • Google Maps API
 - GCP cloud storage integration
 - Real-time streaming support
 
-### 🛠 Tech Stack
-Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
+**🛠 Tech Stack:** Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
 
-🔗 Live Demo: https://video-messaging-app.vercel.app/
+🔗 [Live Demo](https://video-messaging-app.vercel.app/)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatharthaurangpure01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthaurangpure01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yatharthaurangpure01&theme=tokyonight&hide_border=true"/>
@@ -98,23 +95,23 @@ Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yatharthaurangpure01&theme=onedark&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yatharthaurangpure01&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthaurangpure01&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthaurangpure01&theme=react-dark"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/output/github-contribution-grid-snake.svg" />
@@ -122,7 +119,7 @@ Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
 
 ---
 
-# 💡 Achievements
+## 💡 Achievements
 
 🏅 2nd Rank in Information Technology (94.05%)  
 🏅 Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate  
@@ -130,20 +127,12 @@ Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 ```javascript
-while(!success){
-   keepLearning();
-   keepBuilding();
-   stayConsistent();
+while (!success) {
+  keepLearning();
+  keepBuilding();
+  stayConsistent();
 }
-````
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yatharthaurangpure01&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 ```
-````md
