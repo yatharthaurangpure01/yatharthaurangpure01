@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Yatharth Aurangpure</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | AI Enthusiast</h3>
@@ -28,11 +27,11 @@
   <a href="https://github.com/yatharthaurangpure01" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/yatharth-aurangpure-9a479231a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-
+  &nbsp;
   <a href="mailto:yatharthaurangpure2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -82,7 +81,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatharthaurangpure01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthaurangpure01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -112,6 +111,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 💡 Achievements
 
 🏅 2nd Rank in Information Technology (94.05%)  
@@ -119,7 +126,15 @@
 🏅 Second Place – Ideathon organized by Savishkar India  
 
 ---
-## ⚡ Fun Fact ```javascript while(!success){ keepLearning(); keepBuilding(); stayConsistent(); }
+
+## ⚡ Fun Fact
+
+```javascript
+while (!success) {
+  keepLearning();
+  keepBuilding();
+  stayConsistent();
+}
 ```
 
 ---
@@ -127,4 +142,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yatharthaurangpure01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-````
