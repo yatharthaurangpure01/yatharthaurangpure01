@@ -47,46 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚚 Drovo - Food Delivery Platform
-
-- Multi-vendor food delivery platform
-- Google Maps distance-based pricing
-- JWT & Google OAuth Authentication
-- Razorpay Payment Integration
-- WhatsApp & Email Notifications
-
-**🛠 Tech Stack:** React.js • Node.js • Express.js • MongoDB • Razorpay • Google Maps API
-
-🔗 [Live Demo](https://drovo.vercel.app/)
-
----
-
-### 🎥 Video Messaging Platform
-
-- Loom-like screen & webcam recorder
-- AI-based transcription & summaries
-- Stripe subscription integration
-- GCP cloud storage integration
-- Real-time streaming support
-
-**🛠 Tech Stack:** Next.js • Express.js • Socket.IO • Electron.js • Stripe • GCP
-
-🔗 [Live Demo](https://video-messaging-app.vercel.app/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatharthaurangpure01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthaurangpure01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -95,13 +55,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yatharthaurangpure01&theme=onedark&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -110,35 +64,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💡 Achievements
-
-🏅 2nd Rank in Information Technology (94.05%)  
-🏅 Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations Associate  
-🏅 Second Place – Ideathon organized by Savishkar India  
-
----
-
-## ⚡ Fun Fact
-
-```javascript
-while (!success) {
-  keepLearning();
-  keepBuilding();
-  stayConsistent();
-}
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yatharthaurangpure01&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
