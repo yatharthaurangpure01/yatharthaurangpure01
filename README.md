@@ -7,7 +7,7 @@
 </p>
 
 
-## 🚀 About Me
+## About Me
 
 - 🎓 B.Tech CSE Student at Government College of Engineering, Amravati
 - 💻 Passionate about Full Stack Development & AI
@@ -17,7 +17,7 @@
 - ⚡ Solved 250+ DSA problems on LeetCode & GeeksforGeeks
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/yatharthaurangpure01" target="_blank">
@@ -34,14 +34,14 @@
 </p>
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,java,cpp,python,git,github,vscode" />
 </p>
 
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yatharthaurangpure01&theme=tokyonight&hide_border=true"/>
@@ -50,7 +50,7 @@
 
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthaurangpure01&theme=react-dark"/>
