@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Open+Source+Contributor" />
-</p>
+</p> 
 
 
 ## About Me
