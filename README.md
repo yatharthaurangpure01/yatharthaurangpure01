@@ -60,5 +60,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yatharthaurangpure01/yatharthaurangpure01/output/pacman-contribution-graph-dark.svg">
 </p>
