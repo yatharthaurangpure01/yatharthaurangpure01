@@ -33,7 +33,6 @@
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -41,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,java,cpp,python,git,github,vscode" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
@@ -49,7 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=yatharthaurangpure01&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 
 
@@ -59,7 +56,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthaurangpure01&theme=react-dark"/>
 </p>
 
----
 
 
 ## 🎮 Contribution Game
