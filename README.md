@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Open+Source+Contributor" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -17,7 +16,6 @@
 - 🎯 Goal: Become a top software engineer & AI developer
 - ⚡ Solved 250+ DSA problems on LeetCode & GeeksforGeeks
 
----
 
 ## 🌐 Connect With Me
 
