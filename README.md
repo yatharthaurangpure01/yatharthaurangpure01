@@ -13,7 +13,6 @@
 - 💻 Passionate about Full Stack Development & AI
 - 🌱 Currently learning AI/ML, DevOps & System Design
 - 🚀 Building scalable real-world applications
-- 🎯 Goal: Become a top software engineer & AI developer
 - ⚡ Solved 250+ DSA problems on LeetCode & GeeksforGeeks
 
 
