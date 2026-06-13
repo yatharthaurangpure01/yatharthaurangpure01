@@ -13,7 +13,7 @@
 - 💻 Passionate about Full Stack Development & AI
 - 🌱 Currently learning AI/ML, DevOps & System Design
 - 🚀 Building scalable real-world applications
-- ⚡ Solved 250+ DSA problems on LeetCode & GeeksforGeeks
+- ⚡ Solved 300+ DSA problems on LeetCode & GeeksforGeeks
 
 
 ## Connect With Me
